@@ -1,0 +1,8 @@
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\ComparisonClient\bin\Debug\ComparisonClient.exe.config
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\ComparisonClient\bin\Debug\ComparisonClient.exe
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\ComparisonClient\bin\Debug\ComparisonClient.pdb
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\ComparisonClient\obj\Debug\ComparisonClient.csproj.AssemblyReference.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\ComparisonClient\obj\Debug\ComparisonClient.csproj.SuggestedBindingRedirects.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\ComparisonClient\obj\Debug\ComparisonClient.csproj.CoreCompileInputs.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\ComparisonClient\obj\Debug\ComparisonClient.exe
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\ComparisonClient\obj\Debug\ComparisonClient.pdb

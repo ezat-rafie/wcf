@@ -1,0 +1,7 @@
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\NumberComparison\bin\NumberComparison.dll.config
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\NumberComparison\bin\NumberComparison.dll
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\NumberComparison\bin\NumberComparison.pdb
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\NumberComparison\obj\Debug\NumberComparison.csproj.AssemblyReference.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\NumberComparison\obj\Debug\NumberComparison.csproj.CoreCompileInputs.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\NumberComparison\obj\Debug\NumberComparison.dll
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\NumberComparison\NumberComparison\obj\Debug\NumberComparison.pdb

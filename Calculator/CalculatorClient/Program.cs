@@ -39,15 +39,34 @@ namespace CalculatorClient
                         Console.ReadLine();
                         break;
                     case "2":
+                        Console.Write("Enter first number: ");
+                        double n4 = double.Parse(Console.ReadLine());
+                        Console.Write("Enter second number: ");
+                        double n5 = double.Parse(Console.ReadLine());
 
+                        double n6 = client.Add(n4, n5);
+                        Console.WriteLine("The subtract is: " + n6);
+                        Console.ReadLine();
                         break;
                     case "3":
+                        Console.Write("Enter first number: ");
+                        double n7 = double.Parse(Console.ReadLine());
+                        Console.Write("Enter second number: ");
+                        double n8 = double.Parse(Console.ReadLine());
 
+                        double n9 = client.Add(n7, n8);
+                        Console.WriteLine("The multiply is: " + n9);
+                        Console.ReadLine();
                         break;
                     case "4":
+                        Console.Write("Enter first number: ");
+                        double n10 = double.Parse(Console.ReadLine());
+                        Console.Write("Enter second number: ");
+                        double n11 = double.Parse(Console.ReadLine());
 
-                        break;
-                    default:
+                        double n12 = client.Add(n10, n11);
+                        Console.WriteLine("The division is: " + n12);
+                        Console.ReadLine();
                         break;
                 }
             }
