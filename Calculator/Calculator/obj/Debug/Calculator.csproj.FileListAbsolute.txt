@@ -1,0 +1,7 @@
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\Calculator\bin\Calculator.dll.config
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\Calculator\bin\Calculator.dll
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\Calculator\bin\Calculator.pdb
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\Calculator\obj\Debug\Calculator.dll
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\Calculator\obj\Debug\Calculator.pdb

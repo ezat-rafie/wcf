@@ -1,0 +1,8 @@
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\CalculatorClient\bin\Debug\CalculatorClient.exe.config
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\CalculatorClient\bin\Debug\CalculatorClient.exe
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\CalculatorClient\bin\Debug\CalculatorClient.pdb
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\CalculatorClient\obj\Debug\CalculatorClient.csproj.AssemblyReference.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\CalculatorClient\obj\Debug\CalculatorClient.csproj.SuggestedBindingRedirects.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\CalculatorClient\obj\Debug\CalculatorClient.csproj.CoreCompileInputs.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\CalculatorClient\obj\Debug\CalculatorClient.exe
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Calculator\CalculatorClient\obj\Debug\CalculatorClient.pdb
