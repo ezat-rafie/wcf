@@ -1,0 +1,7 @@
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\Login\bin\Login.dll.config
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\Login\bin\Login.dll
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\Login\bin\Login.pdb
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\Login\obj\Debug\Login.dll
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\Login\obj\Debug\Login.pdb

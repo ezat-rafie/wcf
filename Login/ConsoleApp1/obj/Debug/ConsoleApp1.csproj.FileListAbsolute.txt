@@ -1,0 +1,8 @@
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Semester 5\DistrubutedApps\WCF-Lab\wcf\Login\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
